@@ -1,3 +1,3 @@
 ## Preview Web
 
-![Preview](hasil.png)
+![Hasil](hasil_web.png)
